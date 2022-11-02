@@ -44,3 +44,5 @@ naoqi_bridge_msgs/msg/*Action.msg
 naoqi_bridge_msgs/msg/*Feedback.msg
 naoqi_bridge_msgs/msg/*Goal.msg
 naoqi_bridge_msgs/msg/*Result.msg
+
+.idea
